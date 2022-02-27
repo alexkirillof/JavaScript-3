@@ -11,7 +11,7 @@ export function changeStyle() {
 
     for (let i = 1; i < tableItem.length; i++) {
         if (i % 2 !== 0) {
-            tableItem[i].style.color = 'red'
+            tableItem[i].style.color = 'green'
 
         }
     }
