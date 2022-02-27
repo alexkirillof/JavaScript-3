@@ -1,0 +1,36 @@
+table {
+    border-spacing: 0;
+    border: 2px solid black;
+}
+
+table td,
+tr {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.Table-wrapper {
+    margin-top: 30px;
+}
+
+.myForm {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    width: 500px;
+}
+
+form select {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+form input {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+form button {
+    width: 100px;
+    height: 20px;
+}
